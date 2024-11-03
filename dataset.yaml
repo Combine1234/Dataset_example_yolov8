@@ -1,0 +1,8 @@
+path: C:/Users/thana/Desktop/Project Research/Yolov8/dataset
+train: train/images
+val: val/images
+
+names:
+  0: water
+  1: mouse
+  # Add more classes as needed
